@@ -52,7 +52,7 @@
               You have your own ideas, risk tolerance, and plans for the future.
               Therefore, we will first identify your needs and desires, and then
               develop a long-term plan that can help you grow your business
-              wealth."
+              wealth.
             </div>
           </div>
         </div>

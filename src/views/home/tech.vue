@@ -9,7 +9,7 @@
       <div
         class="text-36px text-[#000000] opacity-85 leading-48px font-500 mb-69px"
       >
-        Skywin Investment Club Investment Club is a multinational investment,
+        Skywin Investment Club is a multinational investment,
         insurance, and financial services corporation based in Manhattan, New
         York City.
       </div>
@@ -57,7 +57,7 @@
               As the most attention-grabbing innovative technology of 2023,
               artificial intelligence can be regarded as the key factor that
               ignited investor enthusiasm and drove the rise of U.S. stocks in
-              the first half of the year."
+              the first half of the year.
             </div>
           </div>
         </div>
@@ -76,7 +76,7 @@
             >
               At the recently concluded United Nations Annual Climate Change
               Conference, over 60 countries expressed their support for a plan
-              to double the global renewable energy capacity by 2030
+              to double the global renewable energy capacity by 2030.
             </div>
           </div>
         </div>
@@ -135,7 +135,7 @@
               class="text-14px text-[#000000] opacity-85 leading-22px font-400"
             >
               Following the fervent hype in 2023, the craze for weight loss
-              drugs will continue this year
+              drugs will continue this year.
             </div>
           </div>
         </div>
@@ -154,7 +154,7 @@
             >
               By 2030, industries related to semiconductors, electric vehicles,
               and charging stations are expected to bring up to 600 billion
-              dollars in capital expenditure to the United States
+              dollars in capital expenditure to the United States.
             </div>
           </div>
         </div>
