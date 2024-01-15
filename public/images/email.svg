@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图标/邮箱</title>
+    <g id="////1.15" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5" transform="translate(-434.000000, -188.000000)">
+            <g id="编组-26" transform="translate(394.000000, 136.000000)">
+                <g id="图标/邮箱" transform="translate(40.000000, 52.000000)">
+                    <rect id="矩形" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="27" height="27"></rect>
+                    <g id="编组" transform="translate(0.000000, 3.000000)" fill="#197ED7" fill-rule="nonzero">
+                        <path d="M2.80032374,0 L25.1996763,0 C26.7277142,0 27.9805758,1.22060338 28,2.71640912 L14.0048561,10.3994113 L0.0129494739,2.72612215 C0.0258989479,1.22384106 1.26904844,0 2.80032374,0 Z M0.0129494739,5.66593083 L0,19.2512141 C0,20.7632082 1.25933634,22 2.80032374,22 L25.1996763,22 C26.7406637,22 28,20.7632082 28,19.2512141 L28,5.65945548 L14.3350676,12.9830758 C14.1246387,13.0963944 13.8721239,13.0963944 13.6649324,12.9830758 L0.0129494739,5.66593083 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -2,7 +2,7 @@
   <div class="w-full h-full relative">
     <!-- 头部 -->
     <div
-      class="w-full h-96px bg-[#14182C ] px-350px bg-[#14182C] flex items-center justify-between"
+      class="w-full h-96px bg-[#14182C ] px-290px bg-[#14182C] flex items-center justify-between"
     >
       <div class="w-314px h-56px">
         <img class="w-314px h-56px" src="/images/logo.png" alt="" />
@@ -49,7 +49,7 @@
             class="absolute left-[50%] trans top-54px w-[60%] h-5px bg-[#3AA3FF]"
           ></div>
         </div>
-        <div class="relative">
+        <div class="relative mr-56px">
           <div
             class="text-18px leading-26px font-500 cursor-pointer"
             :class="
@@ -61,6 +61,21 @@
           </div>
           <div
             v-if="route.name == 'teacher'"
+            class="absolute left-[50%] trans top-54px w-[60%] h-5px bg-[#3AA3FF]"
+          ></div>
+        </div>
+        <div class="relative">
+          <div
+            class="text-18px leading-26px font-500 cursor-pointer"
+            :class="
+              route.name == 'contact' ? 'text-[#3AA3FF]' : 'text-[#ffffff]'
+            "
+            @click="router.push('/contact')"
+          >
+            Contact
+          </div>
+          <div
+            v-if="route.name == 'contact'"
             class="absolute left-[50%] trans top-54px w-[60%] h-5px bg-[#3AA3FF]"
           ></div>
         </div>

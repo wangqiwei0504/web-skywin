@@ -91,7 +91,7 @@
           </div>
         </div>
       </div>
-      <div class="w-full h-914px bg-[#ffffff] boxs p-32px mb-97px">
+      <div class="w-full h-1342px bg-[#ffffff] boxs p-32px mb-97px">
         <div class="flex items-center mb-38px">
           <div class="w-400px h-400px mr-38px">
             <img class="w-400px h-400px" src="/images/teacher2.png" alt="" />
@@ -157,7 +157,9 @@
             </div>
           </div>
         </div>
-        <div class="text-20px text-[#000000] opacity-85 leading-24px font-400">
+        <div
+          class="text-20px text-[#000000] opacity-85 leading-24px font-400 mb-38px"
+        >
           <div class="text-24px leading-32px font-700 mb-16px">
             Investment Style
           </div>
@@ -174,6 +176,16 @@
               Cryptocurrency Analysis - Deep research on cryptocurrencies,
               strongly believes that BTC will surpass $55,000 in 2024.
             </div>
+          </div>
+        </div>
+        <div class="text-24px text-[#000000] opacity-85 leading-32px font-700">
+          <div class="mb-16px">Honor certificate</div>
+          <div class="w-437px h-341px">
+            <img
+              class="w-437px h-341px object-cover"
+              src="/images/honor.png"
+              alt=""
+            />
           </div>
         </div>
       </div>
